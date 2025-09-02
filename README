@@ -1,0 +1,2 @@
+generate CoqMakefile with coq_makefile -o CoqMakefile -f _CoqProject
+then run make -f CoqMakefile
