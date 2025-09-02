@@ -2,4 +2,5 @@
 *.vo
 *.vok
 *.vos
+*.aux
 *CoqMakefile.conf
