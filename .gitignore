@@ -4,3 +4,6 @@
 *.vos
 *.aux
 *CoqMakefile.conf
+.CoqMakefile.d
+CoqMakefile
+
